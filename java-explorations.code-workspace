@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "./hello-world",
+			"name": "Hello World"
+		},
+		{
+			"path": "./todo-list",
+			"name": "Todo List"
+		},
+		{
+			"path": "./json-dependency",
+			"name": "JSON Dependency"
+		},
+		{
+			"path": "./first-flink-job",
+			"name": "First Flink Job"
+		},
+		{
+			"path": "./flink-rabbitmq-first-job",
+			"name": "Flink RabbitMQ First Job"
+		},
+		{
+			"path": ".",
+			"name": "Java Explorations"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
