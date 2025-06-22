@@ -21,6 +21,10 @@
 			"name": "Flink RabbitMQ First Job"
 		},
 		{
+			"path": "./flink-rabbitmq-session-window-example",
+			"name": "Flink RabbitMQ Session Window Example"
+		},
+		{
 			"path": ".",
 			"name": "Java Explorations"
 		}
